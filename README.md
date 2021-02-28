@@ -1,6 +1,6 @@
 # Seneca (see)
 
-Contains verbal paradigms for Seneca
+Contains verbal paradigms for 140 verbs in the Seneca language
 
 ## Data
 
