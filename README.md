@@ -14,7 +14,12 @@ Emily Prud'hommeaux
 Zoey Liu
 
 ## Paradigm Samples
-TBA
+ahjö	sahjö’öh	V;2;PRS;SG
+ahjö	esahjök	V;2;PST;SG
+ahjö	ëyagohjök	V;3;FEM;FUT;SG
+ahjö	gohjö’öh	V;3;FEM;PRS;SG
+ahjö	wa'agohjök	V;3;FEM;PST;SG
+ahjö	ëyonöhjök	V;3;DU;FEM;FUT
 
 ## Shared Tasks
 
