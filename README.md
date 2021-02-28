@@ -4,9 +4,11 @@ Contains verbal paradigms for Seneca
 
 ## Data
 
-Source:TBA
+Source: Phyllis E. Wms. Bardeau. 2007. *The Seneca Verb: Labeling the Ancient Voice*.
 
 ## Annotators
+Richard J. Hatcher
+Emily Prud'hommeaux
 Zoey Liu
 
 ## Paradigm Samples
