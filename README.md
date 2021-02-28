@@ -8,7 +8,9 @@ Source: Phyllis E. Wms. Bardeau. 2007. *The Seneca Verb: Labeling the Ancient Vo
 
 ## Annotators
 Richard J. Hatcher
+
 Emily Prud'hommeaux
+
 Zoey Liu
 
 ## Paradigm Samples
